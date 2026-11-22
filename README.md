@@ -5,12 +5,6 @@ I build systems where machine learning meets backend engineering, and I measure 
 
 Currently seeking new-grad software engineering roles in backend, cloud infrastructure or applied ML.
 
-Featured Projects
-Project	Description	Stack
-Fretly	Turns guitar recordings into playable tablature. Note detection with Basic Pitch, then a Viterbi dynamic-programming optimizer picks the most playable string and fret for each note. Benchmarked, CI-tested, with a documented decision log. In progress.	Python · TensorFlow · FFmpeg · pytest · GitHub Actions
-CareCompass	Trauma-informed RAG chatbot for sexual assault survivors, built by a 5-person team for a client. Serverless on AWS, with crisis detection and privacy-focused session handling.	FastAPI · ChromaDB · Gemini · AWS Lambda · DynamoDB · React
-Suika AI	Deep Q-Network trained to play a physics-based puzzle game through a custom Gymnasium environment. Team project.	PyTorch · Gymnasium · Pymunk
-Tech Stack
 
 Languages <br> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
 
