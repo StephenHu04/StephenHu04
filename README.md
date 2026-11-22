@@ -1,17 +1,21 @@
-Hi, I'm Stephen 👋
+<h1 align="center">Stephen Hu</h1> <p align="center"> <strong>Software Engineer · Backend, Cloud &amp; Applied ML</strong><br> B.S. Computer Science, UC Davis (2026) · San Francisco Bay Area </p> <p align="center"> <a href="https://linkedin.com/in/stephenhu777"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://github.com/StephenHu04"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> </p>
+About
 
-I'm a software engineer and a recent UC Davis Computer Science graduate (B.S., June 2026), based in the San Francisco Bay Area. I like building systems where machine learning meets solid backend engineering, and I like measuring whether they actually work.
+I build systems where machine learning meets backend engineering, and I measure whether they actually work. Recent work includes a serverless RAG chatbot for a healthcare-adjacent client and an audio-to-guitar-tab engine built around a dynamic-programming optimizer.
 
-I'm looking for new-grad software engineering roles, especially in backend, cloud, or applied ML.
+Currently seeking new-grad software engineering roles in backend, cloud infrastructure or applied ML.
 
-What I've been building
-Fretly: turns guitar recordings into playable tablature. It uses Basic Pitch for note detection, then a dynamic-programming optimizer to pick the most playable string and fret for each note. The repo includes benchmarks, CI and a decision log. (In progress)
-CareCompass: a trauma-informed RAG chatbot for sexual assault survivors, built by a 5-person team for a client. It uses FastAPI, ChromaDB and Gemini, runs serverlessly on AWS Lambda, and includes crisis detection and privacy-focused session handling.
-Suika AI: a team project that trained a Deep Q-Network to play a physics-based puzzle game, with a custom Gymnasium environment.
-Tools I use
+Featured Projects
+Project	Description	Stack
+Fretly	Turns guitar recordings into playable tablature. Note detection with Basic Pitch, then a Viterbi dynamic-programming optimizer picks the most playable string and fret for each note. Benchmarked, CI-tested, with a documented decision log. In progress.	Python · TensorFlow · FFmpeg · pytest · GitHub Actions
+CareCompass	Trauma-informed RAG chatbot for sexual assault survivors, built by a 5-person team for a client. Serverless on AWS, with crisis detection and privacy-focused session handling.	FastAPI · ChromaDB · Gemini · AWS Lambda · DynamoDB · React
+Suika AI	Deep Q-Network trained to play a physics-based puzzle game through a custom Gymnasium environment. Team project.	PyTorch · Gymnasium · Pymunk
+Tech Stack
 
-Python · TypeScript · Java · C/C++ · SQL FastAPI · React · PyTorch · TensorFlow · scikit-learn AWS (Lambda, S3, API Gateway, DynamoDB, CloudFormation) · ChromaDB · Supabase · GitHub Actions · pytest
+Languages <br> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
 
-Get in touch
+Backend & Cloud <br> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"> <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" alt="DynamoDB"> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
 
-LinkedIn
+Machine Learning <br> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"> <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square" alt="ChromaDB">
+
+Tooling <br> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
